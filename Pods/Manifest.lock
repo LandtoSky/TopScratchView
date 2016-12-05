@@ -1,0 +1,12 @@
+PODS:
+  - GSKStretchyHeaderView (0.12.2)
+
+DEPENDENCIES:
+  - GSKStretchyHeaderView
+
+SPEC CHECKSUMS:
+  GSKStretchyHeaderView: affdd9f3ae6d6f3cea31dccf604367c617d037ad
+
+PODFILE CHECKSUM: f473ef8ba859d1ecd9335d12002b2e0b2b4bd815
+
+COCOAPODS: 1.1.1
